@@ -30,8 +30,9 @@ tags: ""
 今月の使える時間と一日に使える時間がどれくらいなのかを可視化できるアプリケーションです。
 
 ## デモ(図解)
-![image.png](https://boostnote.io/api/teams/ZiDFKbzPj/files/69d41d986f6b21c54d875d3f382d27b05743bffadc25ab571c2f059be50f57e9-image.png)
-
+<p align="center">
+  <img src="docs/TimeCal.png" alt="TimeCal: full app" width=810 />
+</p> 
 
 
 ## 環境
