@@ -9,3 +9,13 @@ C:\Users\muramoto\Desktop\TimeCal\TimeCal\obj\Debug\TimeCal.csproj.GenerateResou
 C:\Users\muramoto\Desktop\TimeCal\TimeCal\obj\Debug\TimeCal.csproj.CoreCompileInputs.cache
 C:\Users\muramoto\Desktop\TimeCal\TimeCal\obj\Debug\TimeCal.exe
 C:\Users\muramoto\Desktop\TimeCal\TimeCal\obj\Debug\TimeCal.pdb
+D:\Refactaring\TImeCal-New\bin\Debug\TimeCal.exe.config
+D:\Refactaring\TImeCal-New\bin\Debug\TimeCal.exe
+D:\Refactaring\TImeCal-New\bin\Debug\TimeCal.pdb
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.csproj.AssemblyReference.cache
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.Form1.resources
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.Properties.Resources.resources
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.csproj.GenerateResource.cache
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.csproj.CoreCompileInputs.cache
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.exe
+D:\Refactaring\TImeCal-New\obj\Debug\TimeCal.pdb
